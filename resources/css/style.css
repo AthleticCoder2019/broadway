@@ -14,7 +14,14 @@ h1 {
     font-size: 18px;
     color: white;
 }
-.process {
+h2 {
     font-size: 32px;
     font-weight: bold;
+}
+.identify {
+    font-size: 23px;
+    font-weight: bold;
+}
+.info {
+    font-size: 14px;
 }
